@@ -1,13 +1,13 @@
-# Roblox Cookie Fresher – Refresh Roblox Cookies Easily
+# Roblox Cookie ReFresher – Refresh Roblox Cookies Easily
 https://robloxrefresher.com/
 
-Roblox Cookie Fresher is a simple tool designed to refresh Roblox cookies quickly and easily. This project allows users to refresh their Roblox session cookies without logging in again.
+Roblox Cookie ReFresher is a simple tool designed to refresh Roblox cookies quickly and easily. This project allows users to refresh their Roblox session cookies without logging in again.
 
 If you are searching for a Roblox cookie fresher, this tool provides a lightweight and efficient solution.
 
-## Roblox Cookie Fresher Tool
+## Roblox Cookie ReFresher Tool
 
-This Roblox cookie fresher helps maintain an active Roblox session by refreshing the cookie automatically.
+This Roblox cookie refresher helps maintain an active Roblox session by refreshing the cookie automatically.
 
 Many users search for:
 
@@ -36,7 +36,7 @@ This project was built to provide a simple Roblox cookie refreshing solution.
 
 The Roblox cookie will be refreshed instantly.
 
-## Roblox Cookie Fresher Keywords
+## Roblox Cookie ReFresher Keywords
 
 roblox cookie fresher  
 roblox cookie refresher  
